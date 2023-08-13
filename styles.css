@@ -1,0 +1,39 @@
+body
+{
+    background-image:url(./image4.jpg);
+}   
+
+a{
+    float: right;
+    color: white;
+    text-decoration: none;
+    padding: 20px;
+}
+p{
+    color: white;
+}
+.main{
+    text-align: center;
+}
+h1{
+    color: white;
+}
+.group
+{
+    display: inline-block;
+    padding-inline-end: 50px;
+}
+.group img
+{
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+}
+.group p
+{
+    color: white;
+}
+center
+{
+    background-color: rgb(47, 47, 47);
+}
